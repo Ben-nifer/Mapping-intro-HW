@@ -1,0 +1,11 @@
+
+/* hastag signifies an ID as opposed to a class - applies only to a single item,
+which in this case is mapContainer */
+#mapContainer {
+  height:500px;
+  width:500px;
+}
+
+html, body {
+  margin:0;
+}

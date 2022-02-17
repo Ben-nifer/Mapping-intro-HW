@@ -1,0 +1,66 @@
+[
+ {
+   "Intersection": "Ludlow & Rivington",
+   "Borough": "Manhattan",
+   "Injured_Cyc": 4,
+   "Injured_ped": 7,
+   "long": -73.98835377,
+   "lat": 40.72010628
+ },
+ {
+   "Intersection": "South 3rd & Havemeyer",
+   "Borough": "Brooklyn",
+   "Injured_Cyc": 7,
+   "Injured_ped": 4,
+   "long": -73.9580404,
+   "lat": 40.71091731
+ },
+ {
+   "Intersection": "East 168th & College",
+   "Borough": "Bronx",
+   "Injured_Cyc": 3,
+   "Injured_ped": 5,
+   "long": -73.91300645,
+   "lat": 40.83344445
+ },
+ {
+   "Intersection": "Field & Creston",
+   "Borough": "Bronx",
+   "Injured_Cyc": 0,
+   "Injured_ped": 7,
+   "long": -73.90019534,
+   "lat": 40.85906707
+ },
+ {
+   "Intersection": "37th & 101st",
+   "Borough": "Queens",
+   "Injured_Cyc": 1,
+   "Injured_ped": 6,
+   "long": -73.86627593,
+   "lat": 40.75291602
+ },
+ {
+   "Intersection": "Newkirk & Argyle",
+   "Borough": "Brooklyn",
+   "Injured_Cyc": 3,
+   "Injured_ped": 4,
+   "long": -73.96506737,
+   "lat": 40.63493643
+ },
+ {
+   "Intersection": "South 4th & Keap",
+   "Borough": "Brooklyn",
+   "Injured_Cyc": 5,
+   "Injured_ped": 2,
+   "long": -73.95470907,
+   "lat": 40.70904624
+ },
+ {
+   "Intersection": "Sterling & Kingston",
+   "Borough": "Brooklyn",
+   "Injured_Cyc": 2,
+   "Injured_ped": 5,
+   "long": -73.94195253,
+   "lat": 40.67222925
+ }
+]
