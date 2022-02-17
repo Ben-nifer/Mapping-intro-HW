@@ -29,15 +29,6 @@ $.getJSON('/data/intersections.json', function(interSections){
       `);
       // how to change 'cyclists/ pedestrians' to 'cyclist/ pedestrian' when num = 1?
 
-    // var color = 'purple'
-    //
-    // if (interSection.school === 'Tandon') {color = 'orange'}
-    // if (interSection.school === 'instructor') {color = 'steelblue'}
-    // if (interSection.school === 'CUSP') {color = 'green'}
-    // if (interSection.school === 'GSAS') {color = 'pink'}
-
-
-
     new mapboxgl.Marker({
       color: 'steelblue'
     })
