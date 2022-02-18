@@ -1,6 +1,6 @@
 
 //Data has to come in first, before you do map things
-$.getJSON('./data/intersections.json', function(interSections){
+$.getJSON('data/intersections.json', function(interSections){
 
 
   mapboxgl.accessToken = 'pk.eyJ1IjoiYmVubmlmZXIiLCJhIjoiY2t6bmZpaTB4MmNyMjJucXIyM2s2a3M5OCJ9.yfIClB9zes7RF2saxS5JlA'
